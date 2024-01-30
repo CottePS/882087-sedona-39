@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/39/user/882087).
-* Наставник: `Неизвестно`.
+* Студент: [Дарья Украинцева](https://up.htmlacademy.ru/htmlcss/39/user/882087).
+* Наставник: [Ирина Малиновская] (https://htmlacademy.ru/profile/irina-malinovskaya).
 
 ---
 
