@@ -2,7 +2,7 @@
 
 * Студент: [Дарья Украинцева](https://up.htmlacademy.ru/htmlcss/39/user/882087).
 * Наставник: [Ирина Малиновская] (https://htmlacademy.ru/profile/irina-malinovskaya).
-
+* Сайт: [Седона] (https://cotteps.github.io/882087-sedona-39/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
